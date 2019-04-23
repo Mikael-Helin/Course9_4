@@ -51,4 +51,8 @@ https://mikael-helin.shinyapps.io/Pricing_Diamonds/
 
 By use of this predictor, you may estimate the price for arbitrary diamonds.
 
+Source files you can find at my Github account
+
+https://github.com/Mikael-Helin/Course9_4
+
 
